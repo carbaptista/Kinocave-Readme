@@ -36,7 +36,7 @@ Kinocave utiliza a API do The Open Movie Database para exibir as informações d
 [![film page](images/kinocave/pt/film.png)](/images/kinocave/pt/film.png)
 >Página de um filme em português
 
-[![actor full](images/kinocave/en/actor.png)](/images/kinocave/en/actor.png)
+[![actor full](images/kinocave/en/actor2.png)](/images/kinocave/en/actor2.png)
 >Página de um ator em inglês
 ---
 Os usuários podem criar listas com temas específicos. Eles também podem criar avaliações dos filmes que assistem.
